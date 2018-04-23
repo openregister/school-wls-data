@@ -503,3 +503,50 @@ write_tsv(reg_school_wls_religious_character, path = '../data/school-wls-religio
 #reg-school-wls-sheet:
 reg_school_wls_sheet <- df_sheet
 write_tsv(reg_school_wls_sheet, path = '../data/school-wls-sheet.tsv')
+
+#reg-school-wls-education-consortia:
+df_education_consortia <- df_localAuthority
+df_education_consortia$education_consortia <- NA
+
+df_education_consortia[1,3] <- 'North West'
+df_education_consortia[2,3] <- 'North West'
+df_education_consortia[3,3] <- 'North West'
+df_education_consortia[4,3] <- 'North West'
+df_education_consortia[5,3] <- 'North West'
+df_education_consortia[6,3] <- 'North West'
+df_education_consortia[7,3] <- 'South West and Mid Wales'
+df_education_consortia[8,3] <- 'South West and Mid Wales'
+df_education_consortia[9,3] <- 'South West and Mid Wales'
+df_education_consortia[10,3] <- 'South West and Mid Wales'
+df_education_consortia[11,3] <- 'South West and Mid Wales'
+df_education_consortia[12,3] <- 'South West and Mid Wales'
+df_education_consortia[13,3] <- 'Central South Wales'
+df_education_consortia[14,3] <- 'Central South Wales'
+df_education_consortia[15,3] <- 'Central South Wales'
+df_education_consortia[16,3] <- 'Central South Wales'
+df_education_consortia[17,3] <- 'South East Wales'
+df_education_consortia[18,3] <- 'South East Wales'
+df_education_consortia[19,3] <- 'South East Wales'
+df_education_consortia[20,3] <- 'South East Wales'
+df_education_consortia[21,3] <- 'South East Wales'
+df_education_consortia[22,3] <- 'Central South Wales'
+
+xx <- as.data.frame(unique(df_education_consortia$education_consortia))
+xx$index <- seq.int(nrow(xx))
+names(xx)[1] <- 'name'
+names(xx)[2] <- 'school_wls_education_consortia'
+reg_school_wls_education_consortia <- xx
+
+write_tsv(reg_school_wls_education_consortia, '../data/school_wls_education_consortia.tsv')
+
+# names(reg_school_wls_education_consortia)[1] <- 'namexx'
+##join 'education consortia back on 
+df_allData <- df_allData %>% left_join(reg_school_wls_education_consortia, by = c("education_consortia.x" = "namexx"))
+
+#remove unwanted columns, and write 'school-wls':
+df_allData$LA_Code.x <- NULL
+df_allData$education_consortia.x <- NULL
+
+reg_school_wls2 <- df_allData %>% select(school_wls, name, `school-wls-local-authority`, `school-wls-sheet`, `school-wls-sector`, `school-wls-governance`, school_wls_welsh_medium_code, `school-wls-school-type`, `school-wls-religious-character`, address, phone_number, pupils, school_wls_education_consortia)
+write_tsv(reg_school_wls2, path = '../data/school-wls.tsv')
+
