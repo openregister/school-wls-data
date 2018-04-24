@@ -550,3 +550,18 @@ df_allData$education_consortia.x <- NULL
 reg_school_wls2 <- df_allData %>% select(school_wls, name, `school-wls-local-authority`, `school-wls-sheet`, `school-wls-sector`, `school-wls-governance`, school_wls_welsh_medium_code, `school-wls-school-type`, `school-wls-religious-character`, address, phone_number, pupils, school_wls_education_consortia)
 write_tsv(reg_school_wls2, path = '../data/school-wls.tsv')
 
+# Adding data from the 'principal local authority' register to the 'df_localAuthority' register, to allow for mapping.
+df_localAuthority$principal_local_authority <- NA
+
+df_principleLA <- read_tsv('../../local-authority-data/data/principal-local-authority/principal-local-authority.tsv')
+temp1 <- df_principleLA %>% select(2,1)
+temp1 <- left_join(df_localAuthority, temp1, by = c('Local_Authority'='name'))
+temp1$principal_local_authority <- NULL
+df_allData <-  left_join(df_allData,temp1, by = c('LA Code'='LA_Code'))
+
+#making the 'school-wls' reg, version 3:
+reg_school_wls3 <- df_allData %>% select(school_wls,`School Name`,`principal-local-authority`,`School Type`)
+reg_school_wls3$address <- NA
+reg_school_wls3 <- reg_school_wls3 %>% select(school_wls,`School Name`,`principal-local-authority`,address,`School Type`)
+
+

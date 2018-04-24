@@ -1,14 +1,14 @@
-school-type	index
-Nursery, Infants & Juniors	1
-Infants & Juniors	2
-Secondary (ages 11-19)	3
-Special (with post-16 provision)	4
-Juniors	5
-Nursery & Infants	6
-Secondary (ages 11-16)	7
-Middle (ages 3-16)	8
-Middle (ages 3-19)	9
-Special (without post-16 provision)	10
-Nursery	11
-Infants	12
-Middle (ages 4-19)	13
+school_wls_school_type	name	start_date	end_date
+1	Nursery, Infants & Juniors	NA	NA
+2	Infants & Juniors	NA	NA
+3	Secondary (ages 11-19)	NA	NA
+4	Special (with post-16 provision)	NA	NA
+5	Juniors	NA	NA
+6	Nursery & Infants	NA	NA
+7	Secondary (ages 11-16)	NA	NA
+8	Middle (ages 3-16)	NA	NA
+9	Middle (ages 3-19)	NA	NA
+10	Special (without post-16 provision)	NA	NA
+11	Nursery	NA	NA
+12	Infants	NA	NA
+13	Middle (ages 4-19)	NA	NA
