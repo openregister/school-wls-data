@@ -563,5 +563,50 @@ df_allData <-  left_join(df_allData,temp1, by = c('LA Code'='LA_Code'))
 reg_school_wls3 <- df_allData %>% select(school_wls,`School Name`,`principal-local-authority`,`School Type`)
 reg_school_wls3$address <- NA
 reg_school_wls3 <- reg_school_wls3 %>% select(school_wls,`School Name`,`principal-local-authority`,address,`School Type`)
+reg_school_wls3$start_date <- NA
+reg_school_wls3$end_date <- NA
+write_tsv(reg_school_wls3,'../data/school-wls.tsv')
 
+#making the 'school-wls-school-type', version 2:
+reg_school_wls_school_type2 <- reg_school_wls_school_type
+reg_school_wls_school_type2$start_date <- NA
+reg_school_wls_school_type2$end_date <- NA
+reg_school_wls_school_type2 <- reg_school_wls_school_type2 %>% select(index,`school-type`,start_date,end_date)
+names(reg_school_wls_school_type2)[1] <- 'school_wls_school_type'
+names(reg_school_wls_school_type2)[2] <- 'name'
+write_tsv(reg_school_wls_school_type2,'../data/school-wls-school-type.tsv')
 
+#adding welsh translations to the school_type
+reg_school_wls_school_type2$`name-cy` <- NA
+reg_school_wls_school_type2 <- reg_school_wls_school_type2 %>% select(school_wls_school_type, name, `name-cy`, start_date, end_date)
+
+reg_school_wls_school_type2[1,3] <- 'Iau, babanod a meithrin'
+reg_school_wls_school_type2[2,3] <- 'Iau a babanod'
+reg_school_wls_school_type2[3,3] <- 'Uwchradd (ystod oedran 11-19)'
+reg_school_wls_school_type2[4,3] <- 'Arbennig gyda darpariaeth ôl-16'
+reg_school_wls_school_type2[5,3] <- 'Iau'
+reg_school_wls_school_type2[6,3] <- 'Babanod a meithrin'
+reg_school_wls_school_type2[7,3] <- 'Uwchradd (ystod oedran 11-16)'
+reg_school_wls_school_type2[8,3] <- 'Canol (ystod oedran 3-16)'
+reg_school_wls_school_type2[9,3] <- 'Canol (ystod oedran 3-19)'
+reg_school_wls_school_type2[10,3] <- 'Arbennig heb ddarpariaeth ôl-16'
+reg_school_wls_school_type2[11,3] <- 'Meithrin'
+reg_school_wls_school_type2[12,3] <- 'Babanod'
+reg_school_wls_school_type2[13,3] <- 'Canol (ystod oedran 4-19)'
+
+#joining the welsh_school types onto the school-wls reg:
+temp_school_type <- reg_school_wls_school_type2 %>% select(name, school_wls_school_type,`name-cy`, start_date,  end_date)
+
+reg_school_wls3 <- reg_school_wls3 %>% left_join(temp_school_type, by = c("School Type" = "name"))
+
+reg_school_wls3 <- reg_school_wls3 %>% select(school_wls, `School Name`, school_wls_school_type, `principal-local-authority`, address,  start_date.x, end_date.x)
+
+names(reg_school_wls3)[1] <- "school-wls"
+names(reg_school_wls3)[2] <- "school-name"
+names(reg_school_wls3)[3] <- "school-wls-school-type"
+names(reg_school_wls3)[6] <- "start-date"
+names(reg_school_wls3)[7] <- "end-date"
+
+#write to file:
+write_tsv(reg_school_wls3, path = '../data/school-wls.tsv')
+write_tsv(reg_school_wls_school_type2, '../data/school-wls-school-type.tsv')

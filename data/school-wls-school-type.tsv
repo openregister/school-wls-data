@@ -1,14 +1,14 @@
-school_wls_school_type	name	start_date	end_date
-1	Nursery, Infants & Juniors	NA	NA
-2	Infants & Juniors	NA	NA
-3	Secondary (ages 11-19)	NA	NA
-4	Special (with post-16 provision)	NA	NA
-5	Juniors	NA	NA
-6	Nursery & Infants	NA	NA
-7	Secondary (ages 11-16)	NA	NA
-8	Middle (ages 3-16)	NA	NA
-9	Middle (ages 3-19)	NA	NA
-10	Special (without post-16 provision)	NA	NA
-11	Nursery	NA	NA
-12	Infants	NA	NA
-13	Middle (ages 4-19)	NA	NA
+school_wls_school_type	name	name-cy	start_date	end_date
+1	Nursery, Infants & Juniors	Iau, babanod a meithrin	NA	NA
+2	Infants & Juniors	Iau a babanod	NA	NA
+3	Secondary (ages 11-19)	Uwchradd (ystod oedran 11-19)	NA	NA
+4	Special (with post-16 provision)	Arbennig gyda darpariaeth ôl-16	NA	NA
+5	Juniors	Iau	NA	NA
+6	Nursery & Infants	Babanod a meithrin	NA	NA
+7	Secondary (ages 11-16)	Uwchradd (ystod oedran 11-16)	NA	NA
+8	Middle (ages 3-16)	Canol (ystod oedran 3-16)	NA	NA
+9	Middle (ages 3-19)	Canol (ystod oedran 3-19)	NA	NA
+10	Special (without post-16 provision)	Arbennig heb ddarpariaeth ôl-16	NA	NA
+11	Nursery	Meithrin	NA	NA
+12	Infants	Babanod	NA	NA
+13	Middle (ages 4-19)	Canol (ystod oedran 4-19)	NA	NA
