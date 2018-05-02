@@ -57,7 +57,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6612011	Ysgol Bethel	1	GWN			
 6612013	Ysgol Bodfeurig	1	GWN			
 6612015	Ysgol Gynradd Borth-Y-Gest	1	GWN			
-6612017	Ysgol Bryerau	1	GWN			
+6612017	Ysgol Brynaerau	1	GWN			
 6612026	Ysgol Y Gelli	1	GWN			
 6612028	Ysgol Penybryn	5	GWN			
 6612033	Ysgol Treferthyr	1	GWN			
@@ -69,8 +69,8 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6612047	Ysgol Felinwnda	1	GWN			
 6612048	Ysgol Bro Plenydd	1	GWN			
 6612049	Ysgol Gynradd Garndolbenmaen	1	GWN			
-6612051	Ysgol Gladda	5	GWN			
-6612059	Ysgol Gynradd Llaelhaearn	1	GWN			
+6612051	Ysgol Glanadda	5	GWN			
+6612059	Ysgol Gynradd Llanaelhaearn	1	GWN			
 6612060	Ysgol Gynradd Llanbedrog	1	GWN			
 6612066	Ysgol Gynradd Llangybi	1	GWN			
 6612069	Ysgol Llanllechid	1	GWN			
@@ -109,9 +109,9 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6612198	Ysgol Y Garreg	1	GWN			
 6612199	Ysgol O M Edwards	1	GWN			
 6612205	Ysgol Manod	1	GWN			
-6612207	Ysgol Gynradd Penl	1	GWN			
+6612207	Ysgol Gynradd Pennal	1	GWN			
 6612208	Ysgol Cefn Coch	1	GWN			
-6612210	Ysgol Talsaru	1	GWN			
+6612210	Ysgol Talsarnau	1	GWN			
 6612211	Ysgol Gynradd Tanygrisiau	1	GWN			
 6612212	Ysgol Gynradd Penybryn	2	GWN			
 6612213	Ysgol Bro Hedd Wyn	1	GWN			
@@ -137,7 +137,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6614002	Ysgol Dyffryn Ogwen Bethesda	3	GWN			
 6614003	Ysgol Botwnnog	7	GWN			
 6614004	Ysgol Brynrefail	3	GWN			
-6614007	Ysgol Dyffryn ntlle	3	GWN			
+6614007	Ysgol Dyffryn Nantlle	3	GWN			
 6614009	Ysgol Eifionydd	7	GWN			
 6614031	Ysgol Y Moelwyn	7	GWN			
 6614032	Ysgol Uwchradd Tywyn	7	GWN			
@@ -174,7 +174,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6622121	Ysgol Craig Y Don	1	CWY			
 6622123	Ysgol Cerrigydrudion	1	CWY			
 6622131	Ysgol Llannefydd	1	CWY			
-6622132	Ysgol Bro Aled, Llansann	1	CWY			
+6622132	Ysgol Bro Aled, Llansannan	1	CWY			
 6622148	Ysgol Gynradd Bro Cernyw	1	CWY			
 6622221	Ysgol Sant Elfod	5	CWY			
 6622222	Ysgol Capel Garmon	1	CWY			
@@ -184,7 +184,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6622269	Ysgol Cystennin	5	CWY			
 6622270	Ysgol Pentrefoelas	1	CWY			
 6622271	Ysgol Bro Gwydir	1	CWY			
-6622272	Ysgol nt Y Groes	1	CWY			
+6622272	Ysgol Nant Y Groes	1	CWY			
 6622273	Ysgol Swn Y Don	1	CWY			
 6622274	Ysgol Awel y Mynydd	1	CWY			
 6623020	Ysgol Babanod Llanfairfechan	6	CWY			
@@ -225,7 +225,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6632124	Ysgol Cefn Meiriadog	1	DEN			
 6632125	Frongoch Juniors	5	DEN			
 6632127	Ysgol Henllan	1	DEN			
-6632134	Ysgol Twm o'r nt	1	DEN			
+6632134	Ysgol Twm o'r Nant	1	DEN			
 6632135	Ysgol Bryn Clwyd	1	DEN			
 6632136	Ysgol Y Parc	6	DEN			
 6632164	Ysgol Gellifor	1	DEN			
@@ -241,9 +241,9 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6632256	Ysgol Pen Barras	1	DEN			
 6632261	Ysgol Bro Cinmeirch	1	DEN			
 6632262	Ysgol Bro Famau	1	DEN			
-6632263	Ysgol Gymraeg Y Gwernt	1	DEN			
+6632263	Ysgol Gymraeg Y Gwernant	1	DEN			
 6632264	Ysgol Clawdd Offa	2	DEN			
-6632265	Bodnt Community Primary School	1	DEN			
+6632265	Bodnant Community Primary School	1	DEN			
 6632266	Ysgol Pendref	1	DEN			
 6632267	Ysgol Bro Dyfrdwy	1	DEN			
 6632268	Ysgol Carreg Emlyn	1	DEN			
@@ -256,12 +256,12 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6633061	Ysgol Dyffryn Ial	1	DEN			
 6633062	Ysgol Esgob Morgan C.I.W. Voluntary Controlled Primary School	5	DEN			
 6633315	Ysgol Mair Catholic Primary School	1	DEN			
-6633316	Ysgol Trefnt	1	DEN			
+6633316	Ysgol Trefnant	1	DEN			
 6634003	Rhyl High School	7	DEN			
 6634014	Prestatyn High School	3	DEN			
 6634020	Ysgol Uwchradd Glan Clwyd	3	DEN			
 6634026	Denbigh High School	3	DEN			
-6634027	Ysgol Dis Bran	3	DEN			
+6634027	Ysgol Dinas Bran	3	DEN			
 6634031	Ysgol Brynhyfryd	3	DEN			
 6634601	Blessed Edward Jones High School	7	DEN			
 6635901	St Brigid's School	9	DEN			
@@ -274,7 +274,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6642013	Bryn Garth Cp	1	FLN			
 6642015	Ysgol Gwynedd Cp	1	FLN			
 6642018	Ysgol Maesglas	1	FLN			
-6642021	Ysgol Gymraeg Mornt	1	FLN			
+6642021	Ysgol Gymraeg Mornant	1	FLN			
 6642024	Ysgol Estyn Community School	1	FLN			
 6642026	Lixwm Cp School	1	FLN			
 6642028	Ysgol Glanrafon	1	FLN			
@@ -283,7 +283,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6642041	Sealand Cp School	1	FLN			
 6642043	Sychdyn Cp	1	FLN			
 6642044	Trelogan Primary	1	FLN			
-6642046	Bryn Pennt Cp	1	FLN			
+6642046	Bryn Pennant Cp	1	FLN			
 6642049	Ysgol Bro Carmel	1	FLN			
 6642050	Rhos Helyg School	1	FLN			
 6642051	Ysgol Terrig	1	FLN			
@@ -306,18 +306,18 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6642089	Drury Primary School	1	FLN			
 6642091	Cornist Park Cp	1	FLN			
 6642092	Ysgol Derwenfa Cp	1	FLN			
-6642093	Perlag Cp	1	FLN			
+6642093	Penarlag Cp	1	FLN			
 6642094	Owen Jones Cp	1	FLN			
-6642237	Gront Primary School	1	FLN			
+6642237	Gronant Primary School	1	FLN			
 6642257	Ysgol Gymraeg Croes Atti	1	FLN			
 6642266	Ysgol Parc Y Llan	1	FLN			
 6642267	Ysgol Mynydd Isa	1	FLN			
 6642268	Broughton Primary School	1	FLN			
-6642269	Ysgol Cae'r nt	1	FLN			
+6642269	Ysgol Cae'r Nant	1	FLN			
 6642270	Ysgol Penyffordd	1	FLN			
 6642271	Ysgol Ty Ffynnon	1	FLN			
 6642272	Ysgol Maes-Y-Felin	1	FLN			
-6643002	nnerch V.C.P. School	1	FLN			
+6643002	Nannerch V.C.P. School	1	FLN			
 6643303	Ysgol Yr Esgob C In W	1	FLN			
 6643306	St Mary's	2	FLN			
 6643307	St Winefrides	1	FLN			
@@ -338,7 +338,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6644017	Castell Alun High School	3	FLN			
 6644018	Maes Garmon	3	FLN			
 6644021	Flint High School	3	FLN			
-6644022	Conh's Quay High School,	7	FLN			
+6644022	Connah's Quay High School,	7	FLN			
 6644042	Argoed High School	7	FLN			
 6644600	St. Richard Gwyn Catholic High School	3	FLN			
 6645200	Derwen Foundation School	1	FLN			
@@ -349,7 +349,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6652137	Froncysyllte	1	WRX			
 6652138	Garth Cp	1	WRX			
 6652139	Ysgol Cynddelw	1	WRX			
-6652140	Llarmon Dc School	1	WRX			
+6652140	Llanarmon Dc School	1	WRX			
 6652143	Pontfadog	1	WRX			
 6652149	Ysgol Acrefair	1	WRX			
 6652151	Cefn Mawr C P School	1	WRX			
@@ -366,7 +366,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6652208	Barker's Lane Cp	1	WRX			
 6652209	Wat's Dyke County Primary	1	WRX			
 6652224	Ysgol Bryn Tabor	1	WRX			
-6652232	Ysgol Sant Duwd	1	WRX			
+6652232	Ysgol Sant Dunawd	1	WRX			
 6652235	Holt C.P. School	1	WRX			
 6652238	Ysgol Bodhyfryd	1	WRX			
 6652259	Ysgol I.D. Hooson	1	WRX			
@@ -422,7 +422,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6662010	Carreghofa C.P. School	1	POW			
 6662018	Leighton C.P. School	1	POW			
 6662019	Ysgol Llanbrynmair	1	POW			
-6662020	Llandim C.P. School	1	POW			
+6662020	Llandinam C.P. School	1	POW			
 6662021	Ysgol Gynradd Llanfair Caereinion	2	POW			
 6662033	Meifod C.P. School	1	POW			
 6662040	Penygloddfa C.P. School	1	POW			
@@ -437,7 +437,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6662056	Hafren C.P. School	5	POW			
 6662057	Ysgol Gynradd Llanfyllin	1	POW			
 6662058	Ysgol Gynradd Glantwymyn	1	POW			
-6662059	Ysgol Pennt	1	POW			
+6662059	Ysgol Pennant	1	POW			
 6662060	Maesyrhandir C.P. School	1	POW			
 6662062	Treowen C.P. School	1	POW			
 6662066	Franksbridge C.P. School	1	POW			
@@ -458,9 +458,9 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6662117	Llangynidr C.P. School	1	POW			
 6662122	Irfon Valley C.P. School	1	POW			
 6662125	Llanfaes C.P. School	1	POW			
-6662127	Ysgol y Banu	1	POW			
+6662127	Ysgol y Bannau	1	POW			
 6662129	Ysgol Rhiw Bechan	1	POW			
-6662146	Llanrhaeadr Ym Mochnt C.P. School	1	POW			
+6662146	Llanrhaeadr Ym Mochnant C.P. School	1	POW			
 6662147	Ysgol Bro Cynllaith	1	POW			
 6662148	Ysgol Dafydd Llwyd	1	POW			
 6662149	Ysgol y Cribarth	1	POW			
@@ -512,7 +512,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6672285	Ysgol Gymunedol Ciliau Parc	2	CGN			
 6672288	Ysgol Gymunedol Dihewyd	2	CGN			
 6672289	Ysgol Gymunedol Felinfach	2	CGN			
-6672291	Ysgol Gymunedol Llarth	2	CGN			
+6672291	Ysgol Gymunedol Llanarth	2	CGN			
 6672293	Ysgol Gymunedol Llannon	2	CGN			
 6672295	Ysgol Gymunedol Cei Newydd	2	CGN			
 6672298	Ysgol Gymunedol Talgarreg	2	CGN			
@@ -522,11 +522,11 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6672309	Ysgol Gymunedol Llanfihangel-Y-Creuddyn	2	CGN			
 6672310	Ysgol Gymunedol Llangwyryfon	2	CGN			
 6672311	Ysgol Gymunedol Llanilar	2	CGN			
-6672312	Ysgol Gymunedol Mych	2	CGN			
+6672312	Ysgol Gymunedol Mynach	2	CGN			
 6672313	Ysgol Gymunedol Penllwyn	2	CGN			
 6672314	Ysgol Gymunedol Llwynyreos	1	CGN			
 6672315	Ysgol Gymunedol Syr John Rhys	2	CGN			
-6672316	Ysgol Gymunedol Rhydypenu	1	CGN			
+6672316	Ysgol Gymunedol Rhydypennau	1	CGN			
 6672317	Ysgol Gymunedol Talybont	2	CGN			
 6672319	Ysgol Gymunedol Aberporth	2	CGN			
 6672320	Ysgol Gymunedol Beulah	2	CGN			
@@ -538,7 +538,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6672362	Ysgol Gymunedol Craig Yr Wylfa	2	CGN			
 6672363	Ysgol Gymunedol Penrhyncoch	2	CGN			
 6672366	Ysgol Gymunedol Y Dderi	1	CGN			
-6672367	Ysgol Gymunedol Certh	2	CGN			
+6672367	Ysgol Gymunedol Cenarth	2	CGN			
 6672368	Ysgol Gynradd Aberteifi	1	CGN			
 6672369	Ysgol Bro Sion Cwilt	1	CGN			
 6672371	Ysgol Gynradd T Llew Jones	1	CGN			
@@ -564,7 +564,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6682231	Ysgol Llanychllwydog	1	PEM			
 6682233	Maenclochog Cp	2	PEM			
 6682237	Milford Haven Junior School	5	PEM			
-6682242	rberth Cp School	1	PEM			
+6682242	Narberth Cp School	1	PEM			
 6682243	Ysgol Bro Ingli	1	PEM			
 6682250	Puncheston Cp	2	PEM			
 6682253	St Dogmaels Cp	1	PEM			
@@ -585,10 +585,10 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6682386	Pembroke Dock Community School	1	PEM			
 6682387	Monkton Priory C.P. School	1	PEM			
 6682388	Gelli Aur/Golden Grove	1	PEM			
-6682389	Ysgol Glanu Gwaun	1	PEM			
+6682389	Ysgol Glannau Gwaun	1	PEM			
 6682390	Ysgol y Frenni	1	PEM			
 6682391	Prendergast Cp	1	PEM			
-6682392	Penr Community School	1	PEM			
+6682392	Pennar Community School	1	PEM			
 6682393	Neyland Community School	1	PEM			
 6682395	Ysgol Hafan y Mor	1	PEM			
 6683035	Cilgerran Church In Wales Vc	1	PEM			
@@ -603,7 +603,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6683060	Penrhyn Church in Wales Voluntary Controlled School	1	PEM			
 6683061	Gelliswick Church in Wales Voluntary Controlled Primary School	1	PEM			
 6683310	Ysgol Bro Dewi Church In Wales Va	1	PEM			
-6683311	Holy me Rc School	2	PEM			
+6683311	Holy Name Rc School	2	PEM			
 6683312	St. Mary's Catholic Primary School	1	PEM			
 6683313	Mary Immaculate Catholic Primary School	1	PEM			
 6683314	St Francis R C Primary School	1	PEM			
@@ -641,7 +641,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6692043	Betws C.P. School	1	CMN			
 6692044	Ysgol Gynradd Ty-croes	1	CMN			
 6692050	Ysgol Gynradd Parcyrhun	1	CMN			
-6692052	Ysgol Gynradd Blaeu	2	CMN			
+6692052	Ysgol Gynradd Blaenau	2	CMN			
 6692057	Ysgol Gynradd Llanedi	2	CMN			
 6692061	Ysgol Gynradd Ffairfach	1	CMN			
 6692065	Talley C.P School	1	CMN			
@@ -665,8 +665,8 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6692166	Ysgol Llansteffan	1	CMN			
 6692167	Ysgol Gynradd Llannon	1	CMN			
 6692168	Ysgol Gymraeg Brynsierfel	1	CMN			
-6692169	Brymman Primary School	1	CMN			
-6692170	Abernt C.P. School	2	CMN			
+6692169	Brynamman Primary School	1	CMN			
+6692170	Abernant C.P. School	2	CMN			
 6692171	Myrddin C.P. School	1	CMN			
 6692173	Llangunnor C.P. School	1	CMN			
 6692175	Trimsaran C.P. School	1	CMN			
@@ -686,7 +686,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6692190	Penygaer Primary School	1	CMN			
 6692192	Ysgol Y Castell	1	CMN			
 6692193	Penygroes C.P. School	2	CMN			
-6692194	Y.G. ntgaredig	1	CMN			
+6692194	Y.G. Nantgaredig	1	CMN			
 6692370	Ysgol Gymraeg Gwenllian	1	CMN			
 6692371	Ysgol Gymraeg Dewi Sant	1	CMN			
 6692373	Ysgol Gynradd Pontyberem	1	CMN			
@@ -699,7 +699,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6692386	Ysgol Carreg Hirfaen	1	CMN			
 6692387	Cae'r Felin Community School	1	CMN			
 6692388	Ysgol Y Bedol	1	CMN			
-6692389	Ysgol Bro Brych	1	CMN			
+6692389	Ysgol Bro Brynach	1	CMN			
 6692390	Ysgol Bryn Teg	1	CMN			
 6692391	Ysgol Y Felin	2	CMN			
 6692392	Ysgol Bro Banw	2	CMN			
@@ -749,7 +749,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6702055	St Helen's Primary School	1	SWA			
 6702059	Terrace Road Primary School	1	SWA			
 6702063	Townhill Primary School	1	SWA			
-6702065	Waurlwydd Primary School	1	SWA			
+6702065	Waunarlwydd Primary School	1	SWA			
 6702067	Waun Wen School	1	SWA			
 6702069	Clwyd Primary School	1	SWA			
 6702071	Ynystawe Primary School	1	SWA			
@@ -782,14 +782,14 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6702211	Tre Uchaf Primary School	1	SWA			
 6702212	Y.G.G. Pontybrenin	1	SWA			
 6702215	Craigfelen Primary School	1	SWA			
-6702216	Penrd Primary	1	SWA			
+6702216	Pennard Primary	1	SWA			
 6702217	Knelston Primary	1	SWA			
 6702219	Pen-Y-Fro	1	SWA			
 6702223	Pontybrenin Primary School	1	SWA			
 6702225	Talycopa Primary School	1	SWA			
 6702226	Glyncollen Primary School	1	SWA			
 6702229	Ysgol Gymraeg Y Login Fach	1	SWA			
-6702231	Y.G.G. Tirdeuw	1	SWA			
+6702231	Y.G.G. Tirdeunaw	1	SWA			
 6702232	Y.G.G. Gellionnen	1	SWA			
 6702233	Gors Community School	1	SWA			
 6702234	Sea View Primary School	1	SWA			
@@ -834,7 +834,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6712113	Brynhyfryd Primary School	1	NTL			
 6712119	Baglan Primary School	1	NTL			
 6712128	YGG Cwmllynfell	1	NTL			
-6712129	Creunt Primary School	1	NTL			
+6712129	Creunant Primary School	1	NTL			
 6712134	Crymlyn Primary School	1	NTL			
 6712137	Cwmnedd Primary School	1	NTL			
 6712138	Cymer Afan Primary School	1	NTL			
@@ -852,7 +852,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6712173	Croeserw Primary School	1	NTL			
 6712175	Tywyn Primary School	1	NTL			
 6712178	Llangiwg Primary School	1	NTL			
-6712181	Tonu Primary Community School	1	NTL			
+6712181	Tonnau Primary Community School	1	NTL			
 6712187	Ynysfach Primary School	1	NTL			
 6712191	Blaenbaglan Primary School	1	NTL			
 6712193	Ynysmaerdy Primary School	1	NTL			
@@ -871,7 +871,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6712233	Coedffranc Primary School	1	NTL			
 6712234	Pen Afan Primary	1	NTL			
 6712235	Awel Y Mor Primary School	1	NTL			
-6712236	Cryllt Primary School	1	NTL			
+6712236	Crynallt Primary School	1	NTL			
 6712237	Cwmafan Primary School	1	NTL			
 6712238	Central Primary School	1	NTL			
 6712239	Abbey Primary School	1	NTL			
@@ -905,8 +905,8 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6722129	Garth Primary School	1	BGE			
 6722146	Coychurch Llangrallo Primary	1	BGE			
 6722149	Llangynwyd Primary School	1	BGE			
-6722172	ntyffyllon Primary School	1	BGE			
-6722178	ntymoel Primary School	1	BGE			
+6722172	Nantyffyllon Primary School	1	BGE			
+6722178	Nantymoel Primary School	1	BGE			
 6722185	Newton Primary	1	BGE			
 6722194	Nottage County Primary	1	BGE			
 6722220	Pen-Y-Bont Primary	1	BGE			
@@ -980,11 +980,11 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6732163	Oak Field Primary And Nursery School	1	VGL			
 6732165	Ysgol Iolo Morganwg	1	VGL			
 6732178	Ysgol Gymraeg Sant Curig	1	VGL			
-6732179	Ysgol Gymraeg Gwaun Y nt	1	VGL			
+6732179	Ysgol Gymraeg Gwaun Y Nant	1	VGL			
 6732181	Cadoxton Primary School	2	VGL			
 6732182	Romilly Primary School	1	VGL			
 6732184	Ysgol Gymraeg Dewi Sant	1	VGL			
-6732185	Dis Powys Primary School	1	VGL			
+6732185	Dinas Powys Primary School	1	VGL			
 6732186	Ysgol y Ddraig	1	VGL			
 6733037	St Nicholas C/W Primary School	2	VGL			
 6733047	Peterston-Super-Ely Primary	1	VGL			
@@ -1010,9 +1010,9 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6742044	Penderyn Primary	1				
 6742045	Oaklands Primary School	1				
 6742052	Alaw Primary School	1				
-6742053	Abernt County Primary	1				
+6742053	Abernant County Primary	1				
 6742060	Cilfynydd Primary	1				
-6742061	Brynu Primary	1				
+6742061	Brynnau Primary	1				
 6742066	Coedpenmaen County Primary	1				
 6742069	Bodringallt Primary School.	1				
 6742070	Blaengwawr Primary	1				
@@ -1123,7 +1123,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6744097	Ysgol Gyfun Cwm Rhondda	3				
 6744105	Ysgol Gyfun Rhydywaun	3				
 6744106	Aberdare Community School	3				
-6744602	Cardil Newman R.C.	3				
+6744602	Cardinal Newman R.C.	3				
 6744604	St.John Baptist High School	3				
 6745500	Ysgol Llanhari	9				
 6747006	Maesgwyn	4				
@@ -1131,7 +1131,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6747011	Ysgol Hen Felin	4				
 6747015	Ysgol Ty Coch	4				
 6751027	Gurnos Nursery School	11	MTY			
-6752000	Abercaid Community	1	MTY			
+6752000	Abercanaid Community	1	MTY			
 6752002	Cyfarthfa Park Primary School	1	MTY			
 6752006	Caedraw Primary	1	MTY			
 6752010	Gellifaelog Primary School	1	MTY			
@@ -1181,7 +1181,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6762158	Llancaeach Junior School	5	CAY			
 6762171	Llanfabon Infants School	6	CAY			
 6762193	Rhydri Primary School	1	CAY			
-6762197	nt Y Parc Primary School	1	CAY			
+6762197	Nant Y Parc Primary School	1	CAY			
 6762207	Pantside Primary	1	CAY			
 6762224	Tiryberth Primary	1	CAY			
 6762227	Ty Isaf Infants School	6	CAY			
@@ -1217,19 +1217,19 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6762380	Glyn-Gaer Primary School	1	CAY			
 6762381	Park Primary	1	CAY			
 6762382	Aberbargoed Primary School	1	CAY			
-6762383	Trint Primary	1	CAY			
+6762383	Trinant Primary	1	CAY			
 6762384	Ty Sign Primary School	1	CAY			
 6762385	Tyn-y-Wern Primary	1	CAY			
 6762386	Twyn Primary	1	CAY			
 6762387	White Rose Primary School	1	CAY			
-6762388	Ysgol Bro Sann	1	CAY			
+6762388	Ysgol Bro Sannan	1	CAY			
 6762389	Plasyfelin Primary School	1	CAY			
 6762390	St James Primary School	1	CAY			
 6762391	St Gwladys Bargoed School	1	CAY			
 6762392	Rhiw Syr Dafydd Primary School	1	CAY			
-6762393	Ystrad Mych Primary	1	CAY			
+6762393	Ystrad Mynach Primary	1	CAY			
 6762394	Ysgol Gynradd Gymraeg Cwm Derwen	1	CAY			
-6762395	Ysgol Pelltau	1	CAY			
+6762395	Ysgol Penalltau	1	CAY			
 6763310	St Helens Rc Primary	1	CAY			
 6764031	Newbridge School	7	CAY			
 6764046	Blackwood Comprehensive School	7	CAY			
@@ -1274,7 +1274,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6782115	Victoria Primary	2	TOF			
 6782203	Llanyrafon Primary School	2	TOF			
 6782204	Maendy Junior And Infants	1	TOF			
-6782205	Llantarm Community Primary School	1	TOF			
+6782205	Llantarnam Community Primary School	1	TOF			
 6782211	Pontnewydd Primary & Nursery	1	TOF			
 6782249	Greenmeadow Primary	2	TOF			
 6782298	Cwmffrwdoer Primary	2	TOF			
@@ -1289,9 +1289,9 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6782323	Blenheim Road Community Primary School	1	TOF			
 6782324	Coed Eva Primary School	1	TOF			
 6782325	Croesyceiliog Primary School	1	TOF			
-6782326	nt Celyn Primary School	1	TOF			
+6782326	Nant Celyn Primary School	1	TOF			
 6782327	Ysgol Panteg	1	TOF			
-6783028	Blaevon Heritage Vc Primary School	1	TOF			
+6783028	Blaenavon Heritage Vc Primary School	1	TOF			
 6783321	Cwmbran R.C. Jnr. & Infts.	1	TOF			
 6783324	St. Davids Cwmbran R.C. School	1	TOF			
 6783330	Henllys Church In Wales	2	TOF			
@@ -1410,7 +1410,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6812033	Lansdowne Primary School	1	CRF			
 6812037	Moorland Primary	1	CRF			
 6812039	Radnor Primary School	2	CRF			
-6812041	Rhydypeu Primary School	1	CRF			
+6812041	Rhydypenau Primary School	1	CRF			
 6812043	Roath Park Primary School	1	CRF			
 6812045	Greenway Primary School	1	CRF			
 6812050	Stacey Primary School	1	CRF			
@@ -1423,7 +1423,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6812075	Pentrebane Primary School	1	CRF			
 6812084	Mount Stuart Primary School	1	CRF			
 6812090	Llanishen Fach Primary School	1	CRF			
-6812092	Rhiwbei Primary School	1	CRF			
+6812092	Rhiwbeina Primary School	1	CRF			
 6812094	Llanedeyrn Primary School	1	CRF			
 6812096	Springwood Primary School	1	CRF			
 6812101	Ninian Park Primary School	1	CRF			
@@ -1439,7 +1439,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6812169	Ysgol Y Wern	1	CRF			
 6812170	Ysgol Gymraeg Coed Y Gof	2	CRF			
 6812171	Ysgol Bro Eirwg	1	CRF			
-6812173	Ysgol Tregan	2	CRF			
+6812173	Ysgol Treganna	2	CRF			
 6812174	Willowbrook Primary School	1	CRF			
 6812175	Pentyrch Primary	2	CRF			
 6812176	Thornhill Primary School	1	CRF			
@@ -1455,7 +1455,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6812312	Herbert Thompson Primary	1	CRF			
 6812313	Ysgol Glan Morfa	1	CRF			
 6812314	Ysgol Pen Y Pil	2	CRF			
-6812315	Ysgol Gymraeg nt Caerau	1	CRF			
+6812315	Ysgol Gymraeg Nant Caerau	1	CRF			
 6812317	Rumney Primary	1	CRF			
 6812318	Windsor Clive Primary	1	CRF			
 6812319	Severn Primary	1	CRF			
@@ -1469,7 +1469,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6812327	Pencaerau Primary	1	CRF			
 6812328	Glyncoed Primary	1	CRF			
 6812329	Whitchurch Primary	1	CRF			
-6812330	Pontprenu Primary School	1	CRF			
+6812330	Pontprennau Primary School	1	CRF			
 6812331	Howardian Primary School	1	CRF			
 6812332	Ysgol Gynradd Gymraeg Hamadryad	1	CRF			
 6813000	St. Mellons Church In Wales Primary	2	CRF			
@@ -1490,7 +1490,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6813355	St Mary The Virgin C/W Primary School	1	CRF			
 6813357	All Saints C/W Primary	2	CRF			
 6813366	St Fagans Church In Wales	1	CRF			
-6813370	St Berdettes Primary School	1	CRF			
+6813370	St Bernadettes Primary School	1	CRF			
 6813371	St David's C/W Primary School	1	CRF			
 6813373	Bishop Childs C/W Primary	2	CRF			
 6813374	St Philip Evans Primary School	1	CRF			
@@ -1530,7 +1530,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6626019	Rydal Penrhos		CWY			
 6636013	Fairholme Preparatory School		DEN			
 6636027	Ruthin School		DEN			
-6636040	The Bras School		DEN			
+6636040	The Branas School		DEN			
 6636041	Myddelton College		DEN			
 6646004	Options Kinsale		FLN			
 6646005	Bryn Tirion Hall School		FLN			
@@ -1553,7 +1553,7 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6686021	Ysgol Dail Pren		PEM			
 6696002	Coleg Llanymddyfri		CMN			
 6696003	St Michael's School		CMN			
-6696008	nt-y-cwm Steiner School		CMN			
+6696008	Nant-y-cwm Steiner School		CMN			
 6696015	Gwenllian Education Centre		CMN			
 6706001	Oakleigh House School		SWA			
 6706018	Ffynone House School		SWA			
@@ -1593,9 +1593,9 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6816101	Cardiff Sixth Form College		CRF			
 6816102	ACT Schools		CRF			
 6611104	Llechan Lân Centres		GWN			
-6621100	Canolfan Addysg nt-y-Bryniau Education Centre		CWY			
+6621100	Canolfan Addysg Nant-y-Bryniau Education Centre		CWY			
 6621102	Gyffin Education Centre		CWY			
-6621103	Altertive Education Service		CWY			
+6621103	Alternative Education Service		CWY			
 6621104	Canolfan Addysg Penmaenrhos		CWY			
 6631100	Denbighshire PRU's		DEN			
 6641102	Flintshire Portfolio PRU's		FLN			
@@ -1609,9 +1609,9 @@ school-wls	name	school-wls-school-type	principal-local-authority	address	start-d
 6721102	Portfolio PRU		BGE			
 6731112	Y Daith		VGL			
 6741106	Ty Gwyn Education Centres					
-6741108	Tai Educatiol Centre					
-6761104	Glanynt Learning Centre (PRU)		CAY			
-6781100	AltertiveTuition Ty Glyn PRU		TOF			
+6741108	Tai Educational Centre					
+6761104	Glanynant Learning Centre (PRU)		CAY			
+6781100	AlternativeTuition Ty Glyn PRU		TOF			
 6791100	Monmouthshire Pupil Referral Service		MON			
 6801103	Bridge Achievement Centre		NWP			
 6811107	Bryn Y Deryn School and Student Support Unit		CRF			
